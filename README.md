@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Welcome Typing Animation -->
-  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eins'+Github+!)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!;Welcome+to+Eins'+Github!&center=true&size=27)](https://git.io/typing-svg)
 
 <!-- Spacer for beauty -->
 <div>&nbsp;</div>
