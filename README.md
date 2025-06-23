@@ -1,16 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eins'+Github!)
+<div align="center">
 
-<!--
-**Eins51/Eins51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Welcome Typing Animation -->
+  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eins'+Github+!)
 
-Here are some ideas to get you started:
+<!-- Spacer for beauty -->
+<div>&nbsp;</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Full Skill Set Icons (Auto-wrap, Light Theme) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,py,pytorch,sklearn,opencv,matlab,nodejs,npm,vue,vite,react,tailwind,cloudflare,threejs,html,css,js,bootstrap,nginx,docker,jquery,mysql,sqlite,git,github,gitlab,anaconda,pycharm,vscode,linux,ubuntu,windows,powershell,sublime,md,latex&perline=12&theme=light"/>
+</a>
+
+</div>
